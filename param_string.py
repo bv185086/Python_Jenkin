@@ -1,3 +1,3 @@
 import sys
-name = sys.argv
-print("Given name is: " name)
+name = sys.argv[1]
+print("Given name is: ", name)
